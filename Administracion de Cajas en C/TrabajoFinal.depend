@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1511327467 source:c:\users\loggi\desktop\trabajofinal\arbol.c
+	"Estructuras.h"
+
+1511311986 c:\users\loggi\desktop\trabajofinal\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511329813 source:c:\users\loggi\desktop\trabajofinal\arreglocajas.c
+	"Estructuras.h"
+
+1511327467 source:c:\users\loggi\desktop\trabajofinal\estrucpersonas.c
+	"Estructuras.h"
+
+1511328281 source:c:\users\loggi\desktop\trabajofinal\listasdoblestp.c
+	"Estructuras.h"
+
+1511309273 source:c:\users\loggi\desktop\trabajofinal\main.c
+	"Estructuras.h"
+
+1511326503 source:c:\users\loggi\desktop\trabajofinal\tda-filas.c
+	"Estructuras.h"
+
+1511309053 source:c:\users\loggi\desktop\trabajofinal\estrucusuario.c
+	"Estructuras.h"
+
+1511385462 source:c:\users\marce\desktop\trabajofinalfinal\arbol.c
+	"Estructuras.h"
+
+1511389500 c:\users\marce\desktop\trabajofinalfinal\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511386212 source:c:\users\marce\desktop\trabajofinalfinal\arreglocajas.c
+	"Estructuras.h"
+
+1511377896 source:c:\users\marce\desktop\trabajofinalfinal\estrucpersonas.c
+	"Estructuras.h"
+
+1511376567 source:c:\users\marce\desktop\trabajofinalfinal\estrucusuario.c
+	"Estructuras.h"
+
+1511328281 source:c:\users\marce\desktop\trabajofinalfinal\listasdoblestp.c
+	"Estructuras.h"
+
+1511385095 source:c:\users\marce\desktop\trabajofinalfinal\main.c
+	"Estructuras.h"
+
+1511326503 source:c:\users\marce\desktop\trabajofinalfinal\tda-filas.c
+	"Estructuras.h"
+
+1511385464 source:c:\users\usuario\desktop\trabajofinalfinal\arbol.c
+	"Estructuras.h"
+
+1511389502 c:\users\usuario\desktop\trabajofinalfinal\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511386214 source:c:\users\usuario\desktop\trabajofinalfinal\arreglocajas.c
+	"Estructuras.h"
+
+1511377898 source:c:\users\usuario\desktop\trabajofinalfinal\estrucpersonas.c
+	"Estructuras.h"
+
+1511376568 source:c:\users\usuario\desktop\trabajofinalfinal\estrucusuario.c
+	"Estructuras.h"
+
+1511328282 source:c:\users\usuario\desktop\trabajofinalfinal\listasdoblestp.c
+	"Estructuras.h"
+
+1511385096 source:c:\users\usuario\desktop\trabajofinalfinal\main.c
+	"Estructuras.h"
+
+1511326504 source:c:\users\usuario\desktop\trabajofinalfinal\tda-filas.c
+	"Estructuras.h"
+
+1511385464 source:c:\users\alumno\desktop\trabajofinalfinal\arbol.c
+	"Estructuras.h"
+
+1511900200 c:\users\alumno\desktop\trabajofinalfinal\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511900200 source:c:\users\alumno\desktop\trabajofinalfinal\arreglocajas.c
+	"Estructuras.h"
+
+1511377898 source:c:\users\alumno\desktop\trabajofinalfinal\estrucpersonas.c
+	"Estructuras.h"
+
+1511376568 source:c:\users\alumno\desktop\trabajofinalfinal\estrucusuario.c
+	"Estructuras.h"
+
+1511900333 source:c:\users\alumno\desktop\trabajofinalfinal\listasdoblestp.c
+	"Estructuras.h"
+
+1511385096 source:c:\users\alumno\desktop\trabajofinalfinal\main.c
+	"Estructuras.h"
+
+1511900228 source:c:\users\alumno\desktop\trabajofinalfinal\tda-filas.c
+	"Estructuras.h"
+
