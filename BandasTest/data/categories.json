@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Rock",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Pop",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Heavy Metal",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Alternativo",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Trap",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Reagge",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "name": "Trap",
+        "isActive": true
+    }
+]

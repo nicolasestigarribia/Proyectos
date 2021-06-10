@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "Name": "Redonditos de Ricota",
+        "bio": "Patricio Rey y sus Redonditos de Ricota, tambi\u00e9n conocidos como Los Redondos, fue una banda de rock de La Plata (Argentina) considerada como una de las m\u00e1s importantes e influyentes de su pa\u00eds. Se form\u00f3 en 19761\u200b y, aunque a lo largo de su historia cont\u00f3 en sus filas con varios integrantes, siempre tuvo como l\u00edderes centrales a Indio Solari como cantante y letrista, Skay Beilinson como guitarrista y compositor, la Negra Poli como m\u00e1nager, y Rocambole Cohen como dise\u00f1ador gr\u00e1fico de las portadas de sus \u00e1lbumes.",
+        "members": [
+            {
+                "name": "Indio Solari",
+                "rol": "Voz"
+            },
+            {
+                "name": "Skay Beilinson",
+                "rol": "Guitarra"
+            },
+            {
+                "name": "Semilla Bucciarelli",
+                "rol": "Bajo"
+            },
+            {
+                "name": "Sergio Dawi",
+                "rol": "Saxo"
+            },
+            {
+                "name": "Walter Sidotti",
+                "rol": "Bater\u00eda"
+            }
+        ],
+        "category": "Rock"
+    }
+]
